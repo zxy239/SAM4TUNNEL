@@ -15,3 +15,8 @@ Welcome to have a chat with us if you have any question.
 Now we have preprint version:
 
 Ye, Zehao and Lin, Wei and Faramarzi, Asaad and Xie, Xiongyao and Ninić, J., Sam4tun: No-Training Model for Tunnel Lining Point Cloud Component Segmentation. Available at SSRN: https://ssrn.com/abstract=5009016 or http://dx.doi.org/10.2139/ssrn.5009016 
+
+**Update on Jan 24, 2025**
+
+Now paper is online, and accepted by Tunnelling and Underground Space Technology
+https://doi.org/10.1016/j.tust.2025.106401
